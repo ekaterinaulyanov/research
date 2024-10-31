@@ -18,6 +18,4 @@ Beyond the academic realm, Dr. Simpson is an avid stargazer and science communic
 # CV
 
 <!-- How to embed a PDF -->
-<iframe width="100%" height="600" src="./media/SWE_Resume_Template.pdf">
-
-# EkaterinaUlyanov_CV2024.pdf
+<iframe width="100%" height="600" src="./media/EkaterinaUlyanov_CV2024.pdf">

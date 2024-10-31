@@ -1,12 +1,10 @@
-# Welcome to My Research Page
+# Physics Ph.D. student at McGill University
 
 
 ![Coma cluster](./media/Crab_Nebula.jpg "Crab Nebula"){align="left": style="height:150;width:150px"}
-Welcome to the digital platform of a dedicated physics graduate student committed to unraveling the intricacies of the cosmos. 
-TESTING TESTING123  on the exploration of the profound Crab Nebula, a celestial phenomenon steeped in historical fascination, my research endeavors center on the application of advanced astrophysical methodologies and theoretical frameworks. 
-This platform serves as an invitation to accompany me on a scholarly journey into the depths of the universe. 
-Through meticulous investigation, I aim to elucidate the fundamental processes shaping the Crab Nebula, contributing substantively to the broader comprehension of the universe's extraordinary phenomena. 
-I extend a formal welcome to all who wish to engage with the frontiers of astrophysics through the lens of my ongoing research endeavors.
+
+Bonjour, hi! 
+I am a Physics Ph.D. student with the [Grütter Research Group](https://spm.physics.mcgill.ca/) at McGill University in Montréal, Québec. I use [Atomic Force Microscopy](https://en.wikipedia.org/wiki/Atomic_force_microscopy) (AFM) to probe material surfaces on the atomic scale (i.e. we can see individual atoms!) to understand their fundamental properties. This research has valuable applications in nanoelectronics and sustainable energy (solar cells). I am passionate about introducing more people to the beauty of physics, both through general science communication and through teaching introductory physics courses. I’d like to invite you to join me on my journey through scholarship and research. To quote Richard Feynman, “[There's plenty of room at the bottom](https://en.wikipedia.org/wiki/There%27s_Plenty_of_Room_at_the_Bottom)!"
 
 
 If you're like to learn more about me, you can find an introduction to [my research](./reasearch/research_index.md), some info on some [recent projects](./projects/project_index.md) and some more info [about me](./about/about.md).
