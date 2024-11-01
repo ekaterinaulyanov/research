@@ -2,50 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://ekaterinaulyanov.github.io/research/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://ekaterinaulyanov.github.io/research/about/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://ekaterinaulyanov.github.io/research/about/cooking/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://ekaterinaulyanov.github.io/research/about/cycling/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://ekaterinaulyanov.github.io/research/about/fishing/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
-         <loc>https://ekaterinaulyanov.github.io/research/projects/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <loc>https://ekaterinaulyanov.github.io/research/about/piano/</loc>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
-         <loc>https://ekaterinaulyanov.github.io/research/projects/data_project/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <loc>https://ekaterinaulyanov.github.io/research/contact/</loc>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
-         <loc>https://ekaterinaulyanov.github.io/research/projects/python_project/python_project/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <loc>https://ekaterinaulyanov.github.io/research/research/</loc>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
-         <loc>https://ekaterinaulyanov.github.io/research/reasearch/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <loc>https://ekaterinaulyanov.github.io/research/research/all_publications/</loc>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
-         <loc>https://ekaterinaulyanov.github.io/research/reasearch/all_publications/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <loc>https://ekaterinaulyanov.github.io/research/research/highlights/awesome_paper/</loc>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
-         <loc>https://ekaterinaulyanov.github.io/research/reasearch/highlights/awesome_paper/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <loc>https://ekaterinaulyanov.github.io/research/research/highlights/large_mwl_paper/</loc>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
-         <loc>https://ekaterinaulyanov.github.io/research/reasearch/highlights/large_mwl_paper/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <loc>https://ekaterinaulyanov.github.io/research/teaching/</loc>
+         <lastmod>2024-11-01</lastmod>
+    </url>
+    <url>
+         <loc>https://ekaterinaulyanov.github.io/research/teaching/data_project/</loc>
+         <lastmod>2024-11-01</lastmod>
+    </url>
+    <url>
+         <loc>https://ekaterinaulyanov.github.io/research/teaching/python_project/python_project/</loc>
+         <lastmod>2024-11-01</lastmod>
     </url>
 </urlset>
