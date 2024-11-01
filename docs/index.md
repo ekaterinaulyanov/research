@@ -22,6 +22,10 @@ Ph.D. in Physics at McGill University (expected 2030)
 BA in Physics with Honours at Williams College (2024)
 
 
+# Interests 
+Outside of the lab, I have been taking advantage of my international student status by exploring the gorgeous city of Montréal and enrolling in an introductory French language course. 
+I am an avid pianist (favorite pieces so far include The Lark by Glink/Balakirev and Chopin’s Nocturne Op.48 No.1) and enjoy creative writing in my free time. 
+
 
 <!-- If you're like to learn more about me, you can find an introduction to [my research](./reasearch/research_index.md), some info on some [recent projects](./projects/project_index.md) and some more info [about me](./about/about.md). -->
 
